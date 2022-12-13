@@ -3,11 +3,11 @@ If your project involves data, I will make your life easier.
 
 As a Computer Scientist with a Data Science and AI background, I help clients around the world to solve important problems by getting the *exact* data and insights that are needed for their specific use-case.
 
-I understand your needs as a business and will make sure that you'll never have to worry about the technical details.
+I understand the needs of your business and will make sure that you'll never have to worry about the technical details.
 
-While I have worked with many different clients, I am specialized in projects that bring you an *immediate* return on your investment.
+While I have worked on a wide array of projects, I am specialized in those that bring you an *immediate* return on your investment.
 
-That includes:
+This includes:
 - Lead Generation for Outbound Marketing
 - Competition Analysis for Consulting Agencies
 - Social Media Analytics for Brands
