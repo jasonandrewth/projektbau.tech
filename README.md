@@ -12,9 +12,11 @@ This includes:
 - Competition Analysis for Consulting Agencies
 - Social Media Analytics for Brands
 
-and hundred more scripts, reports and datasets that continue to help my clients around the world.
+and hundred more tools, reports and datasets that continue to help my clients around the world.
 
 No matter in what stage your project is, I will be able to help you.
 
 
 I look forward to working with you :)
+
+
